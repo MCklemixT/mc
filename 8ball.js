@@ -18,3 +18,7 @@ function putword() {
     document.getElementById("button2").style.display = ""
   } , 3000)
 }
+
+function egypt(){
+  location.href = "./egypt.html"
+}
