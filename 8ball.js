@@ -19,6 +19,6 @@ function putword() {
   } , 3000)
 }
 
-function egypt(){
-  location.href = "./egypt.html"
+function egypt1(){
+  location.href = "./egypt1.html"
 }
