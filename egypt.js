@@ -9,3 +9,7 @@ function page3() {
 function support() {
   location.href="./support.html"
 }
+
+function contribute() {
+  location.href="./contribute.html"
+}
